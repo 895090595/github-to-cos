@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "nianyuguai",
+  "author": "test",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
